@@ -1,5 +1,12 @@
 {
   "products": [
+     {
+      "thumbnail": "https://1.bp.blogspot.com/-Usx3IgJOMeI/XexqUoddTKI/AAAAAAABWe4/kgic5jZ9es0bNkRn7Mw8SkgwcyB31XZ9QCNcBGAsYHQ/s1600/food_cheese_emmental.png",
+      "name": "Cheese",
+      "brand": "Jerry",
+      "price": 100,
+      "isHot": true
+    },
     {
       "thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEih34bIfzZkekWB1FpyNms7yOgPcow95tmcpDS9rajsRVR33qWHuX9hKy7ObTMOmOMgLHTlUe7ZtES_U3UmMpAyBLZ6PGcBqAnk0mlw0jG16JMg4e587riBC9bzk8X07Dv2SFhb_pMqUwjOGZo9oNXupGuQ7j0CLOLss7cb4pHuul5uWc-Naa0se3EdmQ=s648",
       "name": "Energy Bar",
